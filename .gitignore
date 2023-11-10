@@ -1,0 +1,4 @@
+*.pcap
+*.png
+*.ipynb
+.DS_Store
